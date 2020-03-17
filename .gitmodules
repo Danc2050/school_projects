@@ -10,3 +10,24 @@
 [submodule "cs410Agile"]
 	path = cs410Agile
 	url = https://github.com/Danc2050/cs410Agile
+[submodule "CS594-IRCClient"]
+	path = CS594-IRCClient
+	url = https://github.com/Danc2050/CS594-IRCClient
+[submodule "ACMWorkshops"]
+	path = ACMWorkshops
+	url = https://github.com/Danc2050/ACMWorkshops
+[submodule "FullStack"]
+	path = FullStack
+	url = https://github.com/Danc2050/FullStack
+[submodule "AdvancedJava"]
+	path = AdvancedJava
+	url = https://github.com/Danc2050/AdvancedJava
+[submodule "CS545-Final-Project"]
+	path = CS545-Final-Project
+	url = https://github.com/Danc2050/CS545-Final-Project
+[submodule "CS545"]
+	path = CS545
+	url = https://github.com/Danc2050/CS545
+[submodule "CS554-SE-Paper"]
+	path = CS554-SE-Paper
+	url = https://github.com/Danc2050/CS554-SE-Paper
