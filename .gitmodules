@@ -1,3 +1,12 @@
 [submodule "Patient-Provider-Health-System--ChocoOcho"]
 	path = Patient-Provider-Health-System--ChocoOcho
 	url = https://github.com/Danc2050/Patient-Provider-Health-System--ChocoOcho
+[submodule "Predicate_Logic_Calculus"]
+	path = Predicate_Logic_Calculus
+	url = https://github.com/Danc2050/Predicate_Logic_Calculus
+[submodule "Rose-Parade-Search-Engine"]
+	path = Rose-Parade-Search-Engine
+	url = https://github.com/Danc2050/Rose-Parade-Search-Engine
+[submodule "cs410Agile"]
+	path = cs410Agile
+	url = https://github.com/Danc2050/cs410Agile
